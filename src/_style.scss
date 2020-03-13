@@ -1,0 +1,30 @@
+.QRScanner-page{
+    .overlay {
+        z-index: 500;
+        opacity: 50%;
+        position: relative;
+        margin-bottom: -100vw;
+        height: 100vw;
+        width: 100vw;
+    }
+
+    .overlay-wristband{
+        box-shadow: black 0px 0px 0px 28.5vw inset !important;
+    }
+
+    .overlay-area{
+        box-shadow: black 0px 0px 0px 16vw inset !important;
+    }
+
+    #loadingMessage {
+        color: grey;
+        margin: 4vw;
+        width: auto;
+        max-width: 90vw;
+        text-align: center;
+        border: 2px solid;
+        border-color: lightgrey;
+        border-radius: 3vw;
+        padding: 3vw;
+    }
+}
