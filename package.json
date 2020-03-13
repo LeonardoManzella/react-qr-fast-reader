@@ -1,0 +1,22 @@
+{
+  "name": "react-qr-fast-reader",
+  "version": "1.0.0",
+  "description": "Faster qr reader implementation library than react-qr-reader using jsQR to decode images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qr",
+    "reader",
+    "react"
+  ],
+  "author": "Leonardo Manzella",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "@babel/preset-react": "^7.8.3"
+  }
+}
