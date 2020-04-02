@@ -1,6 +1,6 @@
 {
   "name": "react-qr-fast-reader",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Faster qr reader implementation library than react-qr-reader using jsQR to decode images",
   "main": "index.js",
   "scripts": {

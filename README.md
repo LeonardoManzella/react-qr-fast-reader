@@ -1,10 +1,6 @@
 # react-qr-fast-reader
 Faster qr reader implementation library than react-qr-reader using jsQR to decode images
 
-<p align="center">
-  <img al width="300" height="380" alt="Lib logo" src="./qr-reader-logo.png" style="width: 300px !important;" />
-</p>
-
 # React QR Reader [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) 
 
 
